@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#01ddb3</color>
+    <color name="accent_dark">#01b89c</color>
+    <color name="black">#FF000000</color>
+    <color name="fui_bgTwitter">#1DA1F2</color>
+    <color name="gray">#666666</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="primary">#01ddb3</color>
+    <color name="primary_dark">#01b89c</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="wakilink_primary">#06b89a</color>
+    <color name="wakilink_primary_dark">#059a82</color>
+    <color name="wakilink_primary_light">#08dcb4</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="activate_camera">Activar Cámara</string>
+    <string name="active_users">Usuarios Activos</string>
+    <string name="app_name">WakiLink</string>
+    <string name="calibrating">Calibrando...</string>
+    <string name="calibration_complete">Calibración completada</string>
+    <string name="calibration_description">Para mejorar la precisión del reconocimiento de señas, necesitamos calibrar la cámara. Por favor, siga las instrucciones en pantalla.</string>
+    <string name="calibration_ready">Listo para comenzar</string>
+    <string name="calibration_title">Calibración</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="error_auth">Error en la autenticación: %1$s</string>
+    <string name="error_empty_fields">Por favor complete todos los campos</string>
+    <string name="error_password_length">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="error_register">Error en el registro: %1$s</string>
+    <string name="gcm_defaultSenderId" translatable="false">547646053564</string>
+    <string name="google_api_key" translatable="false">AIzaSyDDSD3UmjbZTMs2LBSwHCnLHBz4NirOPZc</string>
+    <string name="google_app_id" translatable="false">1:547646053564:android:e6a97808d136a0452784b9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDDSD3UmjbZTMs2LBSwHCnLHBz4NirOPZc</string>
+    <string name="google_storage_bucket" translatable="false">wakilink-8bdbd.firebasestorage.app</string>
+    <string name="history_title">Historial de Conversaciones</string>
+    <string name="local_users">Usuarios en tu Localidad</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="menu_welcome">¡Hola! ¿En qué puedo ayudarte?</string>
+    <string name="nav_calibration">Calibración</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_login">Login</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="project_id" translatable="false">wakilink-8bdbd</string>
+    <string name="register_button">Registrarse</string>
+    <string name="register_prompt">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="register_title">Crear nueva cuenta</string>
+    <string name="start_calibration">Iniciar Calibración</string>
+    <string name="total_users">Total de Usuarios</string>
+    <string name="translation_hint">La traducción aparecerá aquí...</string>
+    <string name="welcome_message">¡Bienvenido a WakiLink!</string>
+    <style name="Theme.WakiLink" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/wakilink_primary</item>
+        <item name="colorPrimaryDark">@color/wakilink_primary_dark</item>
+        <item name="colorAccent">@color/wakilink_primary</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <style name="Theme.WakiLink.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Wakilink" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+</resources>

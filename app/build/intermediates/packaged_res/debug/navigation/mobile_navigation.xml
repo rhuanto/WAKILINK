@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.wakilink.ui.home.HomeFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_calibration"
+        android:name="com.example.wakilink.ui.calibration.CalibrationFragment"
+        android:label="Calibración" />
+
+    <activity
+        android:id="@+id/navigation_history"
+        android:name="com.example.wakilink.ChatHistoryActivity"
+        android:label="Historial" />
+
+    <activity
+        android:id="@+id/navigation_login"
+        android:name="com.example.wakilink.LoginActivity"
+        android:label="Login" />
+
+</navigation> 

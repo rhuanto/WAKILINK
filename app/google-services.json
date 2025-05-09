@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547646053564",
+    "project_id": "wakilink-8bdbd",
+    "storage_bucket": "wakilink-8bdbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547646053564:android:e6a97808d136a0452784b9",
+        "android_client_info": {
+          "package_name": "com.example.wakilink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSD3UmjbZTMs2LBSwHCnLHBz4NirOPZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

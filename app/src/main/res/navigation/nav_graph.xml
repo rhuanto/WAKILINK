@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.wakilink.ui.home.HomeFragment"
+        android:label="Inicio" />
+
+    <fragment
+        android:id="@+id/navigation_calibration"
+        android:name="com.example.wakilink.ui.calibration.CalibrationFragment"
+        android:label="Calibración" />
+
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.example.wakilink.ui.history.HistoryFragment"
+        android:label="Historial" />
+
+    <fragment
+        android:id="@+id/navigation_login"
+        android:name="com.example.wakilink.ui.login.LoginFragment"
+        android:label="Login" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.wakilink.ui.dashboard.DashboardFragment"
+        android:label="Dashboard" />
+
+</navigation> 

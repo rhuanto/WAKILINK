@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_roundedbutton.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_ic_calibration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\ic_calibration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_character_wave.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\character_wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_waving_hand.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\waving_hand.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\anim_wave_animation.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\anim\\wave_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_app_logo.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_ic_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_calibration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_calibration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_chat_history.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_chat_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_fragment_calibration.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\fragment_calibration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_roundedbutton.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_translation.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_translation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_item_chat_history.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\item_chat_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\drawable_calibration_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\drawable\\calibration_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-merged_res-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.10\\com.example.wakilink.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.wakilink.app-merged_res-57:/layout_activity_register.xml.flat",
+        "source": "com.example.wakilink.app-main-59:/layout/activity_register.xml"
+    }
+]

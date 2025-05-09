@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WakiLink</string>
+    
+    <!-- MainActivity -->
+    <string name="welcome_message">¡Bienvenido a WakiLink!</string>
+    
+    <!-- MenuActivity -->
+    <string name="menu_welcome">¡Hola! ¿En qué puedo ayudarte?</string>
+    <string name="activate_camera">Activar Cámara</string>
+    <string name="translation_hint">La traducción aparecerá aquí...</string>
+    
+    <!-- LoginActivity -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_prompt">¿No tienes cuenta? Regístrate aquí</string>
+    
+    <!-- RegisterActivity -->
+    <string name="register_title">Crear nueva cuenta</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="register_button">Registrarse</string>
+    
+    <!-- DashboardActivity -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="total_users">Total de Usuarios</string>
+    <string name="active_users">Usuarios Activos</string>
+    <string name="local_users">Usuarios en tu Localidad</string>
+    
+    <!-- CalibrationActivity -->
+    <string name="calibration_title">Calibración</string>
+    <string name="calibration_description">Para mejorar la precisión del reconocimiento de señas, necesitamos calibrar la cámara. Por favor, siga las instrucciones en pantalla.</string>
+    <string name="start_calibration">Iniciar Calibración</string>
+    <string name="calibration_ready">Listo para comenzar</string>
+    <string name="calibrating">Calibrando...</string>
+    <string name="calibration_complete">Calibración completada</string>
+    
+    <!-- ChatHistoryActivity -->
+    <string name="history_title">Historial de Conversaciones</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="nav_login">Login</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_calibration">Calibración</string>
+    <string name="nav_history">Historial</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_fields">Por favor complete todos los campos</string>
+    <string name="error_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="error_password_length">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_auth">Error en la autenticación: %1$s</string>
+    <string name="error_register">Error en el registro: %1$s</string>
+</resources>
